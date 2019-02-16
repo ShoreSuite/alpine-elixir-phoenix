@@ -1,4 +1,4 @@
-ARG ELIXIR_VERSION=1.8.0
+ARG ELIXIR_VERSION=1.8.1
 FROM shoresuite/alpine-elixir:${ELIXIR_VERSION}
 
 LABEL maintainer="Alistair A. Israel <alistair@shoresuite.com>"
